@@ -96,7 +96,7 @@ Start with main python file.
 ## Usage
 
 Use the plot to check result.  
-### confused matrix 
+### plot results 
 ![supervised learning][product-screenshot] 
 ### accuracy
 - linearRegression: 0.9987
