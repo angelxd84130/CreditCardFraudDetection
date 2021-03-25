@@ -91,6 +91,14 @@ Start with main python file.
 3. Put the dataset in the project folder   
 4. Run main.py
 
+### Nest Steps  
+1. Change the number of iterations
+2. Change the random variables in transaction.py
+   ```sh
+   x_train, x_test, y_train, y_test = train_test_split(X, Y, test_size=0.2, random_state=200)
+   ```
+3. Run the project and check the results again  
+
 
 <!-- USAGE EXAMPLES -->
 ## Usage
