@@ -73,7 +73,6 @@ Therefore, the following discussion will focus on logistic regression, SVM, and 
 * [kaggle](https://www.kaggle.com/)
 * [scikit-learn](https://scikit-learn.org/stable/#)
 * [matplotlib](https://matplotlib.org/)
-* [keras](https://keras.io/)
 
 
 
